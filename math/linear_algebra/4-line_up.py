@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Creates a function that adds two arrays element-wise"""
 
