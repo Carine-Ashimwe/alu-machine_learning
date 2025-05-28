@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Calculates the minor matrix of a matrix"""
 
@@ -43,4 +42,3 @@ def minor(matrix):
                 mini[k].pop(j)
             minor[i][j] = determinant(mini)
     return minor
-
